@@ -8,6 +8,11 @@ Code is split into directories:
 - removal-code (code used for extracting and replacing co-occurrence instances)
 - wiki-code (code use to pre-process Wikipedia data)
 
+Results directory includes:
+- results.csv (results from main experiment with multilabel SVM classifiers)
+- results-binary.csv (results from binary SVM classifiers)
+
+
 ```
 @inproceedings{and22-dist-hyp,
     title = "Assessing the Limits of the Distributional Hypothesis in Semantic Spaces: {T}rait-based Relational Knowledge and the Impact of Co-occurrences",
