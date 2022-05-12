@@ -12,7 +12,7 @@ Results directory includes:
 - results.csv (results from main experiment with multilabel SVM classifiers)
 - results-binary.csv (results from binary SVM classifiers)
 
-
+The code, in all its disgraceful glory, is shared for transparency rather than for other people to use. Such a fate no soul deserves.
 ```
 @inproceedings{and22-dist-hyp,
     title = "Assessing the Limits of the Distributional Hypothesis in Semantic Spaces: {T}rait-based Relational Knowledge and the Impact of Co-occurrences",
