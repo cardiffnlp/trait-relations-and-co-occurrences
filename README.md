@@ -1,5 +1,5 @@
 # trait-relations-and-co-occurences
-Code and full result csv files for experiments in: Assessing the Limits of the Distributional Hypothesis in Semantic Spaces: Trait-based Relational Knowledge and the Impact of Co-occurrences
+Code and full results in csv files for experiments in: Assessing the Limits of the Distributional Hypothesis in Semantic Spaces: Trait-based Relational Knowledge and the Impact of Co-occurrences
 
 Code is split into directories:
 - classifier-code (for training and evaluating with SVM classifiers)
